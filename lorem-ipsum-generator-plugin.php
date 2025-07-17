@@ -1,14 +1,12 @@
 <?php
 /*
-Plugin Name: ToolsMenia's LoremIpsum Generator Tool
-Description: A simple Lorem Ipsum text generator tool with shortcode.
-Plugin Name: ToolsMenia's Case Converter Tool
+Plugin Name: ToolsMenia's Lorem Ipsum Generator Tool
 Plugin URI:  https://github.com/kashif1413/WP-lorem-Ipsum-Generator-Plugin
-Description: A simple case converter tool.
-Version: 1.1
+Description: A simple Lorem Ipsum generator tool.
+Version: 1.2
 Author: Kashif Ajmal
-Author URI: https://github.com/kashif1413
-GitHub Plugin URI: kashif1413/WP-lorem-Ipsum-Generator-Plugin.git
+Author URI: https://github.com/kashif1413/
+GitHub Plugin URI: kashif1413/WP-lorem-Ipsum-Generator-Plugin
 Primary Branch: main
 */
 
