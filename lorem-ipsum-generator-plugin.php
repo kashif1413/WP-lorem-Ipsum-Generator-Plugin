@@ -2,8 +2,14 @@
 /*
 Plugin Name: ToolsMenia's LoremIpsum Generator Tool
 Description: A simple Lorem Ipsum text generator tool with shortcode.
+Plugin Name: ToolsMenia's Case Converter Tool
+Plugin URI:  https://github.com/kashif1413/WP-lorem-Ipsum-Generator-Plugin
+Description: A simple case converter tool.
 Version: 1.0
 Author: Kashif Ajmal
+Author URI: https://github.com/kashif1413
+GitHub Plugin URI: kashif1413/WP-lorem-Ipsum-Generator-Plugin.git
+Primary Branch: main
 */
 
 // Shortcode callback
