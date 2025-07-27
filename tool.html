@@ -1,0 +1,50 @@
+<!-- Styling file  -->
+<link rel="stylesheet" href="D:\Projects\Wordpress\MyCustomPlugins\WP-lorem-Ipsum-Generator-Plugin\WP-lorem-Ipsum-Generator-Plugin\style.css">
+
+<!-- HTML Code -->
+<div class="tool-content-outer-div">
+  
+  <div class="tool-content-div">
+   <div class="controls">
+    <label style="font-family:sans-serif;">
+      Paragraphs:
+      <select  id="li-paragraphs">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+      </select>
+    </label>
+    <label style="font-family:sans-serif;">
+      Sentences/para:
+      <select  style="border-width: 1px; border-color: #BA99F4;" id="li-sentences">
+        <option value="3">3</option>
+        <option value="5" selected>5</option>
+        <option value="7">7</option>
+         <option value="9">9</option>
+      </select>
+    </label>
+    <div>
+    <button class="tool-text-button" id="li-generate">Generate</button>
+    </div>
+  </div>
+  <div class="text-wrap">
+  <textarea class="tool-textarea" id="li-output" readonly placeholder="Your Lorem Ipsum will appear here…"></textarea>
+  <div class="icon-bar">
+    <button class="tool-icon-button" id="li-copy" title="Copy">📋</button>
+    <button class="tool-icon-button" id="li-download" title="Download">⬇️</button>
+    <button class="tool-icon-button" id="li-clear" title="Clear">❌</button>
+  </div>
+  </div>
+   <div class="tool-text" id="li-counts"></div>
+  </div>
+</div>
+
+<!-- Script file  -->
+<script src="D:\Projects\Wordpress\MyCustomPlugins\WP-lorem-Ipsum-Generator-Plugin\WP-lorem-Ipsum-Generator-Plugin\script.js"></script>

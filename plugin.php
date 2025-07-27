@@ -5,7 +5,7 @@ Plugin URI:  https://github.com/kashif1413/WP-lorem-Ipsum-Generator-Plugin
 Description: A simple Lorem Ipsum generator tool.
 Version: 1.2
 Author: Kashif Ajmal
-Author URI: https://github.com/kashif1413/
+Author URI: https://github.com/kashif1413
 GitHub Plugin URI: kashif1413/WP-lorem-Ipsum-Generator-Plugin
 Primary Branch: main
 */
