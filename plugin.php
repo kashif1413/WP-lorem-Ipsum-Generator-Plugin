@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: ToolsMenia's Lorem Ipsum Generator Tool
+Plugin Name: TM Lorem Ipsum Generator
 Plugin URI:  https://github.com/kashif1413/WP-lorem-Ipsum-Generator-Plugin
 Description: A simple Lorem Ipsum generator tool.
 Version: 1.2
